@@ -1,2 +1,1 @@
 testing direct stage and commit
-testing
