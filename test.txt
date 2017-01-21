@@ -6,3 +6,4 @@ change
 checking stashing
 editing from UI
 editing from UI for fetch
+changing from eclipse
